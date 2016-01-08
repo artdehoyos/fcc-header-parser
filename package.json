@@ -1,0 +1,19 @@
+{
+  "name": "fcc-header-parser",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Request Header Parser Basejump challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artdehoyos/fcc-header-parser.git"
+  },
+  "author": "Art dehoyos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artdehoyos/fcc-header-parser/issues"
+  },
+  "homepage": "https://github.com/artdehoyos/fcc-header-parser#readme"
+}
